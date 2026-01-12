@@ -46,11 +46,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📝 Fun Facts
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SajanNikam07&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajanNikam07&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajanNikam07&theme=radical" />
 </p>
 
 ---
@@ -89,16 +88,14 @@ I'm a **Senior DevOps Engineer** & **Educator @TechWithSajan** specializing in *
 - 🚀 Passionate about building **scalable, secure & automated infra**  
 - 📚 Mentor, Learner, and Contributor to DevOps community
 
----
-
-## 📝 Fun Facts
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajanNikam07&theme=radical" />
-</p>
 
 ---
 
-<p align="center">
-  <sub>“Striving for automation, stability, and excellence.”</sub>
-</p>
+<div align="center">
+  
+### 💡 "Striving for automation, stability, and excellence." 
+
+![Profile Views](https://komarev.com/ghpvc/?username=SajanNikam07&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/SajanNikam07?label=Follow&style=social)](https://github.com/SajanNikam07)
+
+</div>

@@ -54,9 +54,6 @@
 
 ---
 
-## 🏆 Trophies & Activity
-
-
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 ## 📈 Engineering Activity
 

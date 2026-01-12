@@ -3,16 +3,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hey%2C%20DevOps%27Buddy%20🚀&fontSize=40" />
 </p>
 
- ## 🚀 About Me
-
-I'm a **Senior DevOps Engineer* & **Educator @TechWithSajan** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **8+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
-
-- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
-- ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SajanNikam07&color=blue" alt="Profile Views"/>
 </p>
@@ -91,6 +81,8 @@ I'm a **Senior DevOps Engineer* & **Educator @TechWithSajan** specializing in **
 ---
 
 ## 📌 About Me
+
+I'm a **Senior DevOps Engineer** & **Educator @TechWithSajan** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **8+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
 - 👨‍💻 8+ years of experience in DevOps & Cloud Engineering  
 - ☁️ AWS Certified, Skilled in CI/CD, Automation & Container Technologies  

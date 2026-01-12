@@ -63,6 +63,15 @@
 
 ---
 
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 📈 Engineering Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SajanNikam07&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">

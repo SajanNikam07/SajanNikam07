@@ -1,7 +1,7 @@
 <!-- START HEADER -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hey%2C%20DevOps%27Buddy%20
-    It's%2C%20Me%20Sajan%20🚀&fontSize=40" />
+It's%2C%20Me%20Sajan%20🚀&fontSize=40" />
 </p>
 
 <p align="center">

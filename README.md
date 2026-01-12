@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=SajanNikam07&color=blue" alt="Profile Views"/>
 </p>
 
-<h3 align="center"> DevOps & Cloud Engineer (8+ Years Experience) • AWS • Jenkins • Docker • Kubernetes </h3>
+<h3 align="center"> DevOps & Cloud Engineer (8+ Years Experience) • AWS • Jenkins • Docker • Kubernetes • Azure • Terraform • Docker • Ansible • Telecom 4G/5G Core </h3>
 <hr/>
 
 ## 🔧 Tech Stack

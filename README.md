@@ -56,12 +56,6 @@
 
 ## 🏆 Trophies & Activity
 
-<p align="center">
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=SajanNikam07&theme=radical&no-frame=true" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SajanNikam07&theme=radical" />
-</p>
-
----
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 ## 📈 Engineering Activity
